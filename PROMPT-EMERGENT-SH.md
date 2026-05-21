@@ -10,6 +10,15 @@ Je veux un site pour mon activité de **Shadow Writer** — ghostwriting premium
 https://github.com/vincentjarvis14/shadow-writer-site
 ```
 
+## Framework : BMAD
+
+Ce projet utilise **BMAD-METHOD** comme framework d'orchestration IA. BMAD est déjà initialisé dans le projet (fichiers `AGENTS.md`, `CLAUDE.md` et dossier `bmad-agent/`).
+
+Tu dois travailler **dans le cadre BMAD** :
+- Utilise les **personas BMAD** (Analyst, Architect, PM, etc.) pour structurer ta réflexion
+- Suis la **méthodologie BMAD** pour le développement
+- Consulte les fichiers dans `bmad-agent/` pour les directives
+
 ## Concept & Valeurs
 
 - **Discrétion absolue** — Mes clients veulent rester anonymes, c'est ma marque de fabrique
@@ -25,8 +34,7 @@ Le design doit raconter cette histoire : **je suis invisible, mais mon travail e
 - **Discours** & prises de parole
 - Contenu **web & SEO**
 - **Relecture & correction**
-
-Et surtout, une spécialité forte : **l'écriture de commentaires pour les marques sur les réseaux sociaux** — des interventions discrètes qui construisent une réputation.
+- **Écriture de commentaires pour les marques sur les réseaux sociaux** — des interventions discrètes qui construisent une réputation
 
 ## Ambiance visuelle
 
@@ -54,7 +62,7 @@ Le site doit communiquer :
 4. **Comment ça marche** — le processus, simple et rassurant
 5. **Me contacter** — formulaire confidentiel
 
-## Liberté totale
+## Liberté (dans le cadre BMAD)
 
 - **Stack au choix** — Next.js, Astro, Remix, ce qui te semble le mieux
 - **Design system à inventer** — garde l'esprit sombre/premium mais crée ta propre palette
@@ -77,4 +85,4 @@ Prêt pour Vercel ou la plateforme de ton choix.
 
 ---
 
-**Go !** 🚗💨 Tu as carte blanche.
+**Go !** 🚗💨 Tu as carte blanche, dans le cadre BMAD.
